@@ -1,0 +1,6 @@
+name: PirateRoulette
+version: @version@
+main: com.nemosw.spigot.pirateroulette.PirateRoulettePlugin
+depend: [Tap]
+commands:
+  pr:
